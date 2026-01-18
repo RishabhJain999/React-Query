@@ -80,4 +80,4 @@ The app fetches **posts** from the JSONPlaceholder API and implements pagination
 
 ## LIVE DEMO
 
-**https://github.com/RishabhJain999/React-Query**
+**https://rishabh-react-query.vercel.app/**
