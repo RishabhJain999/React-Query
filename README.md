@@ -77,3 +77,7 @@ The app fetches **posts** from the JSONPlaceholder API and implements pagination
 ## API Details
 
 **https://jsonplaceholder.typicode.com/posts**
+
+## LIVE DEMO
+
+** https://github.com/RishabhJain999/React-Query**
