@@ -1,4 +1,4 @@
-import PostsPage from "./Pages/PostsPage";
+import PostsPage from "./pages/PostsPage";
 const App = () => {
   return (
     <div className="min-h-screen">

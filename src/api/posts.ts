@@ -13,7 +13,7 @@ export interface PostsResponse {
     totalPages: number;
 }
 
-const LIMIT = 6;
+const LIMIT = 6;   // Number of posts per page
 
 export const getPosts = async (page: number): Promise<PostsResponse> => {
     const response = await axios.get(
